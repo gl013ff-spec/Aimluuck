@@ -11,16 +11,10 @@
         "expirydate": "15-06-2025",
         "Allowoffline": false
     },
-  {
-        "device_id": "ff7c41bc84a58e9e",
-        "key": "amir",
-        "expirydate": "15-12-2025",
-        "Allowoffline": false
-    },
     {
         "device_id": "ff7c41bc84a58e9e",
-        "key": "amiir",
-        "expirydate": "18-12-2025",
+        "key": "amir0",
+        "expirydate": "15-12-2025",
         "Allowoffline": false
-    },
+    }
 ]
